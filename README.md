@@ -12,7 +12,9 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Oi! meu nome é Hugo Ribeiro Santos, seja bem-vindo(a)!
+
+Sou uma pessoa apaixonada por matemática, me desenvolvo bem em ambientes que necessita de raciocínio logico, sou formado como técnico em eletroeletrônica e estou cursando Analise e desenvolvimento de sistemas. Meu sonho é trabalhar com programação e atualmente comecei a colocar esse sonho em prática estudando HTML, CSS, PHP, SQL e Bootstrap. Gosto muito de café (até demais), e meus principais é treinar.
  
 <div> 
   <a href="https://instagram.com/hugo_r.santos?igshid=NTc4MTIwNjQ2YQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
