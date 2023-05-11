@@ -1,8 +1,9 @@
  <div>
    <a href="https://github.com/Hugo1704">
     
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hugo1704&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>"/>
+![](https://github-readme-stats.vercel.app/api?username=Hugo1704&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hugo1704&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo1704&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 <div style="display: inline_block"><br>
