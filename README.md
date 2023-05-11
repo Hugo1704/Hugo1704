@@ -22,7 +22,7 @@
 Sou uma pessoa apaixonada por matemática, me desenvolvo bem em ambientes que necessita de raciocínio logico, sou formado como técnico em eletroeletrônica e estou cursando Analise e desenvolvimento de sistemas. Meu sonho é trabalhar com programação e atualmente comecei a colocar esse sonho em prática estudando HTML, CSS, PHP, SQL e Bootstrap. Gosto muito de café (até demais), e meu principal hobby é treinar.
  
 <div> 
-  <a href="https://instagram.com/hugo_r.santos?igshid=MzRlODBiNWFlZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/hugo_r.santos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ribeirosantos1704@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hugo-ribeiro-b00307181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
