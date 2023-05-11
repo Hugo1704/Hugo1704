@@ -1,7 +1,8 @@
  <div>
    <a href="https://github.com/Hugo1704">
+    
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hugo1704&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo1704&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hugo1704&YulietM&theme=react&line_height=40&hide=css"/> </a>"/>
 
 </div>
 <div style="display: inline_block"><br>
