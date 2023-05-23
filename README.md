@@ -23,7 +23,7 @@
  
   ### Oi! meu nome é Hugo Ribeiro Santos, seja bem-vindo(a)!
 
-Sou uma pessoa apaixonada por matemática, me desenvolvo bem em ambientes que necessita de raciocínio logico, sou formado como técnico em eletroeletrônica e estou cursando Analise e desenvolvimento de sistemas. Meu sonho é trabalhar com programação e atualmente comecei a colocar esse sonho em prática estudando HTML, CSS, PHP, SQL e Bootstrap. Gosto muito de café (até demais), e meu principal hobby é treinar.
+Sou uma pessoa apaixonada por matemática, me desenvolvo bem em ambientes que necessitam de raciocínio lógico, sou formado como técnico em eletroeletrônica e estou cursando Analise e desenvolvimento de sistemas. Meu sonho é trabalhar com programação e atualmente comecei a colocar esse sonho em prática estudando HTML, CSS, PHP, SQL e Bootstrap. Gosto muito de café (até demais), e meu principal hobby é treinar.
  
 <div> 
   <a href = "mailto:ribeirosantos1704@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
